@@ -1,0 +1,18 @@
+v e v -> v
+v e f -> f
+f e ? -> f
+
+v ou ? -> v
+f ou v -> v
+f ou ? -> f
+
+v xor v -> f
+v xor f -> v
+f xor v -> v
+f xor f -> f
+
+obs: para negacao (!, ~, ¬) o resultado é o inverso do valor logico.
+
+!v -> f
+!f -> v
+
