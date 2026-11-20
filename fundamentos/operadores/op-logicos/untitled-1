@@ -14,5 +14,5 @@ f xor f -> f
 obs: para negacao (!, ~, ¬) o resultado é o inverso do valor logico.
 
 !v -> f
-!f -> v
+!f -> v 
 

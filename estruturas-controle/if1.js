@@ -25,3 +25,12 @@ seForVerdadeEuFalo("?");
 seForVerdadeEuFalo([]);
 seForVerdadeEuFalo([1, 2]);
 seForVerdadeEuFalo({});
+
+/* 
+Operadores Comuns em Condições
+
+• === : Igual a (em valor e tipo)
+• !== : Diferente de
+• >, <, >=, <= : Maior, menor, maior ou igual, menor ou igual
+• && : E lógico (ambas as condições precisam ser verdadeiras)
+• || : OU lógico (pelo menos uma condição precisa ser verdadeira) */
